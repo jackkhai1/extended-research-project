@@ -3,4 +3,4 @@
 
 This repository contains the materials for my Heineken project - including code for predictive maintenance, natural language processing tasks and Pareto analysis. It also contains the code used to generate graphs. 
 
-The "datasets created with Heineken data" folder contains a few datasets - including depalletiser and filler machinery datasets, and datasets after removing missing values etc. It also contains the datasets for cluster categories. This dataset was made with the intention so that when a script takes too long to process, the dataset can instantly run the code after. 
+I did not include the dataset provided by Heineken as it is confidential material. However, this dataset can be provided with permission and if requested. There are also datasets I have created that were not included such as de-palletiser dataset and filler dataset, as these still contain confidential information. 
